@@ -9,5 +9,6 @@ pipeline {
                     echo "Nosso sábado"
                 '''
             }
-    }}
+    }
+    }
 }
